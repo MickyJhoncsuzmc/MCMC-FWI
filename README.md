@@ -1,3 +1,3 @@
-# MCMC-FWI
+# MCMC-FWI-SPECFEM2D
 
-Full Waveform Inversion MCMC
+Here are some MATLAB scripts for MCMC Full Waveform Inversion based on the SPECFEM2D.
